@@ -10,4 +10,4 @@ To run:
   Click the run button to start the game.
 
 Link to website:
-https://alex-sheen.github.io/code/backgammon.html
+https://alex-sheen.github.io/code
